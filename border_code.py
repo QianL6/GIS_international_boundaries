@@ -1,6 +1,6 @@
 """
 Understanding GIS: Assessment 1
-@author [10687829]
+@author [Qian Liu]
 
 Calculate the length of the World's Shortest Border, as fast as possible
 """
