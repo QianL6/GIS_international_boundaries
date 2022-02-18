@@ -1,6 +1,6 @@
 """
 Understanding GIS: Assessment 2
-@author [10687829]
+@author [Qian Liu]
 
 An Implementation Weighted Redistribution Algorithm (Huck et al.)
 """
